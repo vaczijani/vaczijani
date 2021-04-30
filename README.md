@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaczijani.
 - 👀 I’m interested in C++.
-- 🌱 I’m currently learning Qt.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on libraries, tools.
 - 📫 How to reach me vaczijani@gmail.com
 
